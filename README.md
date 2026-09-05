@@ -20,12 +20,14 @@ In case of encountering any bugs, please feel free to notify me in discord, expl
 Any suggestions for improving the app is always welcome.
 
 
-<img width="1150" height="781" alt="image" src="https://github.com/user-attachments/assets/455283fb-5aea-46ae-95ba-8bc3158bb7f6" />
+<img width="1149" height="783" alt="image" src="https://github.com/user-attachments/assets/47439674-a5e9-4419-bb37-911e14835c9f" />
 
-<img width="1154" height="781" alt="image" src="https://github.com/user-attachments/assets/3d58edf9-784c-4bd7-b1de-5b32f8e2a7fd" />
+<img width="1401" height="780" alt="image" src="https://github.com/user-attachments/assets/e83e2052-9a29-4823-a325-d86f78130bf9" />
 
-<img width="1401" height="751" alt="room" src="https://github.com/user-attachments/assets/6f5934ac-e170-4f89-9413-065eac747f5c" />
+<img width="1400" height="784" alt="image" src="https://github.com/user-attachments/assets/c51ea3be-a17b-400d-88a7-73478099f08c" />
 
-<img width="1159" height="233" alt="image" src="https://github.com/user-attachments/assets/db58827e-9a8f-4b1a-b30b-f17f821b92fb" />
+<img width="1150" height="758" alt="image" src="https://github.com/user-attachments/assets/4fc680c6-5d58-402e-82d7-503825a9dffd" />
+
+<img width="1151" height="759" alt="image" src="https://github.com/user-attachments/assets/fe110dcc-4ba8-4928-bc6c-2e1e6534aebe" />
 
 
